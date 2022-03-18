@@ -15,8 +15,5 @@ public class Alumno {
 				"apellido = " + apellido + System.lineSeparator() +
 				"anyo = " + anyo + System.lineSeparator() +
 				"clase = " + clase;
-				
-		
 	}
-
 }
